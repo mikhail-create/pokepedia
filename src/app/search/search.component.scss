@@ -1,0 +1,26 @@
+.search {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    h1 {
+        color: #45c9dd;
+    }
+    input {
+        text-align: center;
+        font-size: 25px;
+        border: none;
+        border-bottom: 3px solid #45c9dd;
+        background-color: transparent;
+        color: inherit;
+        outline: none;
+        width: 300px;
+        height: 50px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+    input::placeholder {
+        text-align: center;
+        font-size: 25px
+    }
+}

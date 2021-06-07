@@ -1,0 +1,13 @@
+<div class="field">
+    <div (click)="showCard();" class="card" *ngFor="let pokemon of pokemons">
+        <span id="{{ pokemon.id }}"  class="card-id">
+            # {{ pokemon.id }} 
+        </span>
+        <span class="card-img">
+            <img src="{{ pokemon.path }}">
+        </span>
+        <span class="card-name">
+            <strong>{{ pokemon.name }}</strong>
+        </span>
+    </div>>
+</div>
