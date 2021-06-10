@@ -1,4 +1,5 @@
-import { Input, Component, OnInit } from '@angular/core';
+import { Input, Component, OnInit, Inject } from '@angular/core';
+import { MAT_DIALOG_DATA } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-card-detail',
@@ -7,10 +8,12 @@ import { Input, Component, OnInit } from '@angular/core';
 })
 export class CardDetailComponent implements OnInit {
 
-  constructor() { }
-  @Input() name: string = "";
+  constructor(
+    @Inject(MAT_DIALOG_DATA) public data: any
+ ) { }
 
   ngOnInit(): void {
+    console.log(this.data)
   }
 
 }

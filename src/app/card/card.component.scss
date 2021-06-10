@@ -19,6 +19,7 @@
     background-color: white;
     margin: 10px;
     .card-img {
+        background-color: #eeeeee;
         border-radius: 100%;
         width: 140px;
         height: 140px;
@@ -30,8 +31,14 @@
         text-align: center;
     }
     img {
-        background: #ffffff00;
         width: 140px;
         height: 140px;
+    }
+}
+.card:hover{
+    img {
+        width: 150px;
+        height: 150px;
+        transition: 500ms;
     }
 }

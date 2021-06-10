@@ -51,6 +51,7 @@ export const pokemons =[
       "path": "../../assets/img/004.png",
       "name": "CHARMANDER",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 78,
         "attack": 128,
@@ -66,6 +67,7 @@ export const pokemons =[
       "path": "../../assets/img/005.png",
       "name": "CHARMELEON",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 116,
         "attack": 160,
@@ -96,6 +98,7 @@ export const pokemons =[
       "path": "../../assets/img/007.png",
       "name": "SQUIRTLE",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 88,
         "attack": 112,
@@ -111,6 +114,7 @@ export const pokemons =[
       "path": "../../assets/img/008.png",
       "name": "WARTORTLE",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 118,
         "attack": 144,
@@ -126,6 +130,7 @@ export const pokemons =[
       "path": "../../assets/img/009.png",
       "name": "BLASTOISE",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 158,
         "attack": 186,
@@ -140,6 +145,7 @@ export const pokemons =[
       "path": "../../assets/img/010.png",
       "name": "CATERPIE",
       "type1": "BUG",
+      "type2": "",
       "stats": {
         "stamina": 90,
         "attack": 62,
@@ -155,6 +161,7 @@ export const pokemons =[
       "path": "../../assets/img/011.png",
       "name": "METAPOD",
       "type1": "BUG",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 56,
@@ -279,6 +286,7 @@ export const pokemons =[
       "path": "../../assets/img/019.png",
       "name": "RATTATA",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 60,
         "attack": 92,
@@ -294,6 +302,7 @@ export const pokemons =[
       "path": "../../assets/img/020.png",
       "name": "RATICATE",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 146,
@@ -339,6 +348,7 @@ export const pokemons =[
       "path": "../../assets/img/023.png",
       "name": "EKANS",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 70,
         "attack": 112,
@@ -354,6 +364,7 @@ export const pokemons =[
       "path": "../../assets/img/024.png",
       "name": "ARBOK",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 120,
         "attack": 166,
@@ -368,6 +379,7 @@ export const pokemons =[
       "path": "../../assets/img/025.png",
       "name": "PIKACHU",
       "type1": "ELECTRIC",
+      "type2": "",
       "stats": {
         "stamina": 70,
         "attack": 124,
@@ -383,6 +395,7 @@ export const pokemons =[
       "path": "../../assets/img/026.png",
       "name": "RAICHU",
       "type1": "ELECTRIC",
+      "type2": "",
       "stats": {
         "stamina": 120,
         "attack": 200,
@@ -397,6 +410,7 @@ export const pokemons =[
       "path": "../../assets/img/027.png",
       "name": "SANDSHREW",
       "type1": "GROUND",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 90,
@@ -412,6 +426,7 @@ export const pokemons =[
       "path": "../../assets/img/028.png",
       "name": "SANDSLASH",
       "type1": "GROUND",
+      "type2": "",
       "stats": {
         "stamina": 150,
         "attack": 150,
@@ -426,6 +441,7 @@ export const pokemons =[
       "path": "../../assets/img/029.png",
       "name": "NIDORAN_FEMALE",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 100,
@@ -441,6 +457,7 @@ export const pokemons =[
       "path": "../../assets/img/030.png",
       "name": "NIDORINA",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 140,
         "attack": 132,
@@ -471,6 +488,7 @@ export const pokemons =[
       "path": "../../assets/img/032.png",
       "name": "NIDORAN_MALE",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 92,
         "attack": 110,
@@ -486,6 +504,7 @@ export const pokemons =[
       "path": "../../assets/img/033.png",
       "name": "NIDORINO",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 122,
         "attack": 142,
@@ -516,6 +535,7 @@ export const pokemons =[
       "path": "../../assets/img/035.png",
       "name": "CLEFAIRY",
       "type1": "FAIRY",
+      "type2": "",
       "stats": {
         "stamina": 140,
         "attack": 116,
@@ -531,6 +551,7 @@ export const pokemons =[
       "path": "../../assets/img/036.png",
       "name": "CLEFABLE",
       "type1": "FAIRY",
+      "type2": "",
       "stats": {
         "stamina": 190,
         "attack": 178,
@@ -545,6 +566,7 @@ export const pokemons =[
       "path": "../../assets/img/037.png",
       "name": "VULPIX",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 76,
         "attack": 106,
@@ -560,6 +582,7 @@ export const pokemons =[
       "path": "../../assets/img/038.png",
       "name": "NINETALES",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 146,
         "attack": 176,
@@ -745,6 +768,7 @@ export const pokemons =[
       "path": "../../assets/img/050.png",
       "name": "DIGLETT",
       "type1": "GROUND",
+      "type2": "",
       "stats": {
         "stamina": 20,
         "attack": 108,
@@ -760,6 +784,7 @@ export const pokemons =[
       "path": "../../assets/img/051.png",
       "name": "DUGTRIO",
       "type1": "GROUND",
+      "type2": "",
       "stats": {
         "stamina": 70,
         "attack": 148,
@@ -774,6 +799,7 @@ export const pokemons =[
       "path": "../../assets/img/052.png",
       "name": "MEOWTH",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 80,
         "attack": 104,
@@ -789,6 +815,7 @@ export const pokemons =[
       "path": "../../assets/img/053.png",
       "name": "PERSIAN",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 156,
@@ -803,6 +830,7 @@ export const pokemons =[
       "path": "../../assets/img/054.png",
       "name": "PSYDUCK",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 132,
@@ -818,6 +846,7 @@ export const pokemons =[
       "path": "../../assets/img/055.png",
       "name": "GOLDUCK",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 160,
         "attack": 194,
@@ -832,6 +861,7 @@ export const pokemons =[
       "path": "../../assets/img/056.png",
       "name": "MANKEY",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 80,
         "attack": 122,
@@ -847,6 +877,7 @@ export const pokemons =[
       "path": "../../assets/img/057.png",
       "name": "PRIMEAPE",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 178,
@@ -861,6 +892,7 @@ export const pokemons =[
       "path": "../../assets/img/058.png",
       "name": "GROWLITHE",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 156,
@@ -876,6 +908,7 @@ export const pokemons =[
       "path": "../../assets/img/059.png",
       "name": "ARCANINE",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 180,
         "attack": 230,
@@ -890,6 +923,7 @@ export const pokemons =[
       "path": "../../assets/img/060.png",
       "name": "POLIWAG",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 80,
         "attack": 108,
@@ -905,6 +939,7 @@ export const pokemons =[
       "path": "../../assets/img/061.png",
       "name": "POLIWHIRL",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 132,
@@ -935,6 +970,7 @@ export const pokemons =[
       "path": "../../assets/img/063.png",
       "name": "ABRA",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 50,
         "attack": 110,
@@ -950,6 +986,7 @@ export const pokemons =[
       "path": "../../assets/img/064.png",
       "name": "KADABRA",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 80,
         "attack": 150,
@@ -965,6 +1002,7 @@ export const pokemons =[
       "path": "../../assets/img/065.png",
       "name": "ALAKAZAM",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 186,
@@ -979,6 +1017,7 @@ export const pokemons =[
       "path": "../../assets/img/066.png",
       "name": "MACHOP",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 140,
         "attack": 118,
@@ -994,6 +1033,7 @@ export const pokemons =[
       "path": "../../assets/img/067.png",
       "name": "MACHOKE",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 160,
         "attack": 154,
@@ -1009,6 +1049,7 @@ export const pokemons =[
       "path": "../../assets/img/068.png",
       "name": "MACHAMP",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 180,
         "attack": 198,
@@ -1148,6 +1189,7 @@ export const pokemons =[
       "path": "../../assets/img/077.png", 
       "name": "PONYTA",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 168,
@@ -1163,6 +1205,7 @@ export const pokemons =[
       "path": "../../assets/img/078.png", 
       "name": "RAPIDASH",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 200,
@@ -1285,6 +1328,7 @@ export const pokemons =[
       "path": "../../assets/img/086.png",
       "name": "SEEL",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 104,
@@ -1315,6 +1359,7 @@ export const pokemons =[
       "path": "../../assets/img/088.png",
       "name": "GRIMER",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 160,
         "attack": 124,
@@ -1330,6 +1375,7 @@ export const pokemons =[
       "path": "../../assets/img/089.png",
       "name": "MUK",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 210,
         "attack": 180,
@@ -1344,6 +1390,7 @@ export const pokemons =[
       "path": "../../assets/img/090.png",
       "name": "SHELLDER",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 60,
         "attack": 120,
@@ -1436,6 +1483,7 @@ export const pokemons =[
       "path": "../../assets/img/096.png",
       "name": "DROWZEE",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 120,
         "attack": 104,
@@ -1451,6 +1499,7 @@ export const pokemons =[
       "path": "../../assets/img/097.png",
       "name": "HYPNO",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 170,
         "attack": 162,
@@ -1465,6 +1514,7 @@ export const pokemons =[
       "path": "../../assets/img/098.png",
       "name": "KRABBY",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 60,
         "attack": 116,
@@ -1480,6 +1530,7 @@ export const pokemons =[
       "path": "../../assets/img/099.png",
       "name": "KINGLER",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 178,
@@ -1494,6 +1545,7 @@ export const pokemons =[
       "path": "../../assets/img/100.png",
       "name": "VOLTORB",
       "type1": "ELECTRIC",
+      "type2": "",
       "stats": {
         "stamina": 80,
         "attack": 102,
@@ -1509,6 +1561,7 @@ export const pokemons =[
       "path": "../../assets/img/101.png",
       "name": "ELECTRODE",
       "type1": "ELECTRIC",
+      "type2": "",
       "stats": {
         "stamina": 120,
         "attack": 150,
@@ -1554,6 +1607,7 @@ export const pokemons =[
       "path": "../../assets/img/104.png",
       "name": "CUBONE",
       "type1": "GROUND",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 102,
@@ -1569,6 +1623,7 @@ export const pokemons =[
       "path": "../../assets/img/105.png",
       "name": "MAROWAK",
       "type1": "GROUND",
+      "type2": "",
       "stats": {
         "stamina": 120,
         "attack": 140,
@@ -1583,6 +1638,7 @@ export const pokemons =[
       "path": "../../assets/img/106.png",
       "name": "HITMONLEE",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 148,
@@ -1597,6 +1653,7 @@ export const pokemons =[
       "path": "../../assets/img/107.png",
       "name": "HITMONCHAN",
       "type1": "FIGHTING",
+      "type2": "",
       "stats": {
         "stamina": 100,
         "attack": 138,
@@ -1611,6 +1668,7 @@ export const pokemons =[
       "path": "../../assets/img/108.png",
       "name": "LICKITUNG",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 180,
         "attack": 126,
@@ -1625,6 +1683,7 @@ export const pokemons =[
       "path": "../../assets/img/109.png",
       "name": "KOFFING",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 80,
         "attack": 136,
@@ -1640,6 +1699,7 @@ export const pokemons =[
       "path": "../../assets/img/110.png",
       "name": "WEEZING",
       "type1": "POISON",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 190,
@@ -1685,6 +1745,7 @@ export const pokemons =[
       "path": "../../assets/img/113.png",
       "name": "CHANSEY",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 500,
         "attack": 40,
@@ -1699,6 +1760,7 @@ export const pokemons =[
       "path": "../../assets/img/114.png",
       "name": "TANGELA",
       "type1": "GRASS",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 164,
@@ -1713,6 +1775,7 @@ export const pokemons =[
       "path": "../../assets/img/115.png",
       "name": "KANGASKHAN",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 210,
         "attack": 142,
@@ -1727,6 +1790,7 @@ export const pokemons =[
       "path": "../../assets/img/116.png",
       "name": "HORSEA",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 60,
         "attack": 122,
@@ -1742,6 +1806,7 @@ export const pokemons =[
       "path": "../../assets/img/117.png",
       "name": "SEADRA",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 176,
@@ -1756,6 +1821,7 @@ export const pokemons =[
       "path": "../../assets/img/118.png",
       "name": "GOLDEEN",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 90,
         "attack": 112,
@@ -1771,6 +1837,7 @@ export const pokemons =[
       "path": "../../assets/img/119.png",
       "name": "SEAKING",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 160,
         "attack": 172,
@@ -1785,6 +1852,7 @@ export const pokemons =[
       "path": "../../assets/img/120.png",
       "name": "STARYU",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 60,
         "attack": 130,
@@ -1860,6 +1928,7 @@ export const pokemons =[
       "path": "../../assets/img/125.png",
       "name": "ELECTABUZZ",
       "type1": "ELECTRIC",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 198,
@@ -1874,6 +1943,7 @@ export const pokemons =[
       "path": "../../assets/img/126.png",
       "name": "MAGMAR",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 214,
@@ -1888,6 +1958,7 @@ export const pokemons =[
       "path": "../../assets/img/127.png",
       "name": "PINSIR",
       "type1": "BUG",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 184,
@@ -1902,6 +1973,7 @@ export const pokemons =[
       "path": "../../assets/img/128.png",
       "name": "TAUROS",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 150,
         "attack": 148,
@@ -1916,6 +1988,7 @@ export const pokemons =[
       "path": "../../assets/img/129.png",
       "name": "MAGIKARP",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 40,
         "attack": 42,
@@ -1961,6 +2034,7 @@ export const pokemons =[
       "path": "../../assets/img/132.png",
       "name": "DITTO",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 96,
         "attack": 110,
@@ -1975,6 +2049,7 @@ export const pokemons =[
       "path": "../../assets/img/133.png",
       "name": "EEVEE",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 110,
         "attack": 114,
@@ -1990,6 +2065,7 @@ export const pokemons =[
       "path": "../../assets/img/134.png",
       "name": "VAPOREON",
       "type1": "WATER",
+      "type2": "",
       "stats": {
         "stamina": 260,
         "attack": 186,
@@ -2004,6 +2080,7 @@ export const pokemons =[
       "path": "../../assets/img/135.png",
       "name": "JOLTEON",
       "type1": "ELECTRIC",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 192,
@@ -2018,6 +2095,7 @@ export const pokemons =[
       "path": "../../assets/img/136.png",
       "name": "FLAREON",
       "type1": "FIRE",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 238,
@@ -2032,6 +2110,7 @@ export const pokemons =[
       "path": "../../assets/img/137.png",
       "name": "PORYGON",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 130,
         "attack": 156,
@@ -2123,6 +2202,7 @@ export const pokemons =[
       "path": "../../assets/img/143.png",
       "name": "SNORLAX",
       "type1": "NORMAL",
+      "type2": "",
       "stats": {
         "stamina": 320,
         "attack": 180,
@@ -2182,6 +2262,7 @@ export const pokemons =[
       "path": "../../assets/img/147.png",
       "name": "DRATINI",
       "type1": "DRAGON",
+      "type2": "",
       "stats": {
         "stamina": 82,
         "attack": 128,
@@ -2197,6 +2278,7 @@ export const pokemons =[
       "path": "../../assets/img/148.png",
       "name": "DRAGONAIR",
       "type1": "DRAGON",
+      "type2": "",
       "stats": {
         "stamina": 122,
         "attack": 170,
@@ -2227,6 +2309,7 @@ export const pokemons =[
       "path": "../../assets/img/150.png",
       "name": "MEWTWO",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 212,
         "attack": 284,
@@ -2241,6 +2324,7 @@ export const pokemons =[
       "path": "../../assets/img/151.png",
       "name": "MEW",
       "type1": "PSYCHIC",
+      "type2": "",
       "stats": {
         "stamina": 200,
         "attack": 220,

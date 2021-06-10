@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { ListPokemons } from './card/card.component';
+import { pokemons } from './pokemons';
 
 @Component({
   selector: 'app-root',
@@ -7,5 +9,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pokedex';
-  name:string="Name";
+
+  ListPokemons: ListPokemons[] = pokemons;
 }
+

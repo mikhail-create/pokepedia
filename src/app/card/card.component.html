@@ -1,5 +1,14 @@
 <div class="field">
-    <div (click)="showCard();" class="card" *ngFor="let pokemon of pokemons">
+    <div  (click)="showCard(
+        i,
+        pokemon.id,
+        pokemon.name, 
+        pokemon.path, 
+        pokemon.type1,
+        pokemon.type2,
+        pokemon.stats.attack,
+        pokemon.stats.defense
+        )" class="card" *ngFor="let pokemon of pokemons; index as i">
         <span id="{{ pokemon.id }}"  class="card-id">
             # {{ pokemon.id }} 
         </span>

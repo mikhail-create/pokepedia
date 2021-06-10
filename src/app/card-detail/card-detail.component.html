@@ -1,41 +1,40 @@
-<div class="block">
-    <div class="block_image">
-        <span class="block_image__number">#1</span>
-        <img src="../../assets/img/001.png">
-    </div>
-    <div class="block_desc">
-        <strong>{{name}}</strong>
-        <span class="information">
-            Type
-        </span>
-        <div class="block_desc__types">
-            <div class="type">
-                <span class="type_preview grass">
-                    G
-                </span>
-                <span class="type_full">
-                    <!-- pokemon.type -->
-                    Grass
-                </span>
+    <div class="block">
+        <div class="block_image {{data.type1}}">
+            <span class="block_image__number">{{data.id}}</span>
+            <img class={{data.type1}} src="{{data.path}}">
+        </div>
+        <div class="block_desc">
+            <strong>{{data.name}}</strong>
+            <span class="information">
+                Type
+            </span>
+            <div class="block_desc__types">
+                <div class="type">
+                    <!-- <span class="type_preview {{data.type1}}">
+                        {{data.type1[0]}}
+                    </span> -->
+                    <span class="type_full {{data.type1}}">
+                        {{data.type1}}
+                    </span>
+                </div>
+                <div class="type">
+                    <!-- <span class="type_preview {{data.type2}}">
+                        {{data.type2[0]}}
+                    </span> -->
+                    <span class="type_full {{data.type2}}">
+                        {{data.type2}}
+                    </span>
+                </div>
             </div>
-            <div class="type">
-                <span class="type_preview poision">
-                    P
-                </span>
-                <span class="type_full">
-                    Poision 
-                </span>
+            <div class="block_desc__stats">
+                <div class="stats">
+                    <span class="information">Attack</span>
+                    {{data.attack}}
+                </div>
+                <div class="stats">
+                    <span class="information">Defense</span>
+                    {{data.defense}}
+                </div>
             </div>
         </div>
-        <div class="block_desc__stats">
-            <div class="stats">
-                <span class="information">Attack</span>
-                126
-            </div>
-            <div class="stats">
-                <span class="information">Defense</span>
-                126
-            </div>
-        </div>
     </div>
-</div>
